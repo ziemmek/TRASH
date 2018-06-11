@@ -1,0 +1,20 @@
+C:\Users\student\Documents\Visual Studio 2017\Projects\MAJSTER\MAJSTER\bin\Debug\MAJSTER.exe.config
+C:\Users\student\Documents\Visual Studio 2017\Projects\MAJSTER\MAJSTER\bin\Debug\MAJSTER.exe
+C:\Users\student\Documents\Visual Studio 2017\Projects\MAJSTER\MAJSTER\bin\Debug\MAJSTER.pdb
+C:\Users\student\Documents\Visual Studio 2017\Projects\MAJSTER\MAJSTER\obj\Debug\MAJSTER.csprojResolveAssemblyReference.cache
+C:\Users\student\Documents\Visual Studio 2017\Projects\MAJSTER\MAJSTER\obj\Debug\MAJSTER.Form1.resources
+C:\Users\student\Documents\Visual Studio 2017\Projects\MAJSTER\MAJSTER\obj\Debug\MAJSTER.Properties.Resources.resources
+C:\Users\student\Documents\Visual Studio 2017\Projects\MAJSTER\MAJSTER\obj\Debug\MAJSTER.csproj.GenerateResource.cache
+C:\Users\student\Documents\Visual Studio 2017\Projects\MAJSTER\MAJSTER\obj\Debug\MAJSTER.csproj.CoreCompileInputs.cache
+C:\Users\student\Documents\Visual Studio 2017\Projects\MAJSTER\MAJSTER\obj\Debug\MAJSTER.exe
+C:\Users\student\Documents\Visual Studio 2017\Projects\MAJSTER\MAJSTER\obj\Debug\MAJSTER.pdb
+E:\P4\MAJSTER\MAJSTER\bin\Debug\MAJSTER.exe.config
+E:\P4\MAJSTER\MAJSTER\bin\Debug\MAJSTER.exe
+E:\P4\MAJSTER\MAJSTER\bin\Debug\MAJSTER.pdb
+E:\P4\MAJSTER\MAJSTER\obj\Debug\MAJSTER.csprojResolveAssemblyReference.cache
+E:\P4\MAJSTER\MAJSTER\obj\Debug\MAJSTER.Form1.resources
+E:\P4\MAJSTER\MAJSTER\obj\Debug\MAJSTER.Properties.Resources.resources
+E:\P4\MAJSTER\MAJSTER\obj\Debug\MAJSTER.csproj.GenerateResource.cache
+E:\P4\MAJSTER\MAJSTER\obj\Debug\MAJSTER.csproj.CoreCompileInputs.cache
+E:\P4\MAJSTER\MAJSTER\obj\Debug\MAJSTER.exe
+E:\P4\MAJSTER\MAJSTER\obj\Debug\MAJSTER.pdb
